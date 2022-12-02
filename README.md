@@ -1,6 +1,10 @@
 # Project "Food delivery time prediction"
 
-Delivery time prediction is an essential feature for services such as Deliveroo, Uber Eats, Just Eat and etc., which deliver food on demand. These services usually receive an order and     deliver it within 30 minutes.In these situations +/- 5 minutes can make a big difference so, for customer satisfaction, it?s important that the initial prediction is accurate and that any delays are communicated effectively.
+Delivery time prediction is an essential feature for services such as Deliveroo, Uber Eats, Just Eat and etc., which deliver food on demand. 
+
+These services usually receive an order and     deliver it within 30 minutes.
+
+In these situations +/- 5 minutes can make a big difference so, for customer satisfaction, it?s important that the initial prediction is accurate and that any delays are communicated effectively.
 
 ## Dataset 
 
