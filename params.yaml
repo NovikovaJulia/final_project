@@ -1,0 +1,16 @@
+Data:
+  train: '../Data/train.csv'
+  'test': '../Data/test.csv'
+
+
+
+Scalers:
+  minMax: '../Scalers/minMaxScaler.pkl'
+
+
+Encoders:
+  OneHot: '../Encoders/OneHotEncoder.pkl'
+
+
+Models:
+  RandomForest: '../Models/random_forest.pkl'
