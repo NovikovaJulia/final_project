@@ -11,7 +11,7 @@ In these situations +/- 5 minutes can make a big difference so, for customer sat
 Source: https://www.kaggle.com/datasets/gauravmalik26/food-delivery-dataset 
 
 ## Conclusions
-Random Forest gives us the best result (R2 score train: 0.9847444915295399, R2 score test: 0.7069023417012161) with these parameters:
+Random Forest gives us the best result (R2 score train: 0.985, R2 score test: 0.711) with these parameters:
 
 random_forest = RandomForestClassifier (n_estimators = 200, criterion='log_loss', min_samples_leaf=4, min_samples_split=4)
                                
